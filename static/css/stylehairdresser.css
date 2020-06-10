@@ -1,0 +1,131 @@
+
+.mycarousel {
+    width: auto;
+    height: auto;
+    background-color: #fafafa;
+}
+
+.carousel-inner{
+  width:100%;
+  max-height: 600px !important;
+}
+
+.countainer_cards {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    background-color: white;
+    padding-bottom: 100px;
+}
+
+.mycard {
+    width: 400px;
+    height: 400px;
+    background-image: url("https://images.unsplash.com/photo-1559599101-f09722fb4948?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80");
+    background-size: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mycard2 {
+    width: 400px;
+    height: 400px;
+    background-image: url("https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mycard3 {
+    width: 400px;
+    height: 400px;
+    background-image: url("https://images.unsplash.com/photo-1559599076-9c61d8e1b77c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.title_form {
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+
+.container_calapse {
+    background-color: none;
+    margin-top: 10px;
+    margin-bottom: 150px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.card-body-text {
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.container-footer {
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #e0eedf;
+    align-content: center;
+    align-text: center;
+}
+
+
+.container_form_hours {
+    width: auto;
+    height: auto;
+    background-color: #fafafa;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+.title_services {
+    width: auto;
+    height: 80px;
+    background-color: #fafafa;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.heading2 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.container_margins {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.margins {
+    margin-top: 150px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

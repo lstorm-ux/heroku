@@ -1,0 +1,21 @@
+.h1 {
+  typeface: arial;
+  size: 50px;
+  color: #00765d
+}
+
+.h1 {
+  typeface: arial;
+  size: 50px;
+  color: #00765
+}
+
+
+.image {
+  border: 6px black dotted;
+  padding: 5px;
+}
+
+.big {
+    font-size: 50px;
+}
